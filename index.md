@@ -2,9 +2,9 @@
 layout: home
 image: /assets/warreq-landscape.jpg
 actions:
-  - label: "Book"
+  - label: "Tickets"
 #    icon: github  # references name of svg icon, see full list below
-    url: "http://www.southamptonphil.org/web/WarRequiem2018"
+    url: "http://www.war-requiem2018.uk/tickets/"
 ---
 A lifelong pacifist, Benjamin Britten was asked to compose the War Requiem
 for the consecration of the rebuilt Coventry Cathedral after its destruction in
