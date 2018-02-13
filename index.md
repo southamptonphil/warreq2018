@@ -22,4 +22,7 @@ made the ultimate sacrifice.
 [Southampton University Philharmonic Choir](https://www.susu.org/groups/suphil) and the [City of Southampton
 Orchestra](https://www.csorchestra.org/) combine their considerable forces for this unique performance.
 
-Soloists for the performance are [Paula Sides](https://www.paulasides.com/) and [Alexander James Edwards](http://www.thetenor.co.uk/).
+## Soloists
+* [Paula Sides](https://www.paulasides.com/) - *Soprano*
+* [Alexander James Edwards](http://www.thetenor.co.uk/) - *Tenor*
+* [Ashley Riches](https://www.ashleyriches.co.uk/) - *Baritone*
