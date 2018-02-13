@@ -2,7 +2,7 @@
 layout: home
 image: /assets/warreq-landscape.jpg
 actions:
-  - label: "Tickets"
+  - label: "Tickets now available!"
 #    icon: github  # references name of svg icon, see full list below
     url: "http://www.war-requiem2018.uk/tickets/"
 ---
@@ -21,3 +21,5 @@ made the ultimate sacrifice.
 [Basingstoke Choral Society](http://baschoral.wixsite.com/bcsoc), [Southampton Philharmonic Choir](http://www.southamptonphil.org/web/), the
 [Southampton University Philharmonic Choir](https://www.susu.org/groups/suphil) and the [City of Southampton
 Orchestra](https://www.csorchestra.org/) combine their considerable forces for this unique performance.
+
+Soloists for the performance are [Paula Sides](https://www.paulasides.com/) and [Alexander James Edwards](http://www.thetenor.co.uk/).
