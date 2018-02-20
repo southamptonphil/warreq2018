@@ -20,7 +20,9 @@ made the ultimate sacrifice.
 
 [Basingstoke Choral Society](http://baschoral.wixsite.com/bcsoc), [Southampton Philharmonic Choir](http://www.southamptonphil.org/web/), the
 [Southampton University Philharmonic Choir](https://www.susu.org/groups/suphil) and the [City of Southampton
-Orchestra](https://www.csorchestra.org/) combine their considerable forces for this unique performance.
+Orchestra](https://www.csorchestra.org/) combine their considerable forces for
+this unique performance, With choirs from [The Pilgrims’ School](http://www.thepilgrims-school.co.uk/The-Professional-Choirs),Winchester and
+[St. Gabriel’s](http://www.stgabriels.co.uk/), Newbury.
 
 ## Soloists
 * [Paula Sides](https://www.paulasides.com/) - *Soprano*
