@@ -21,7 +21,8 @@ made the ultimate sacrifice.
 [Basingstoke Choral Society](http://baschoral.wixsite.com/bcsoc), [Southampton Philharmonic Choir](http://www.southamptonphil.org/web/), the
 [Southampton University Philharmonic Choir](https://www.susu.org/groups/suphil) and the [City of Southampton
 Orchestra](https://www.csorchestra.org/) combine their considerable forces for
-this unique performance, with choirs from [The Pilgrims’ School](http://www.thepilgrims-school.co.uk/The-Professional-Choirs),Winchester and
+this unique performance, with the world-renowned [London Mozart Players](http://londonmozartplayers.com/) and
+choirs from [The Pilgrims’ School](http://www.thepilgrims-school.co.uk/The-Professional-Choirs),Winchester and
 [St. Gabriel’s](http://www.stgabriels.co.uk/), Newbury.
 
 ## Soloists
