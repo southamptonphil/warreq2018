@@ -22,8 +22,7 @@ made the ultimate sacrifice.
 [Southampton University Philharmonic Choir](https://www.susu.org/groups/suphil) and the [City of Southampton
 Orchestra](https://www.csorchestra.org/) combine their considerable forces for
 this unique performance, with the world-renowned [London Mozart Players](http://londonmozartplayers.com/) and
-choirs from [The Pilgrims’ School](http://www.thepilgrims-school.co.uk/The-Professional-Choirs),Winchester and
-[St. Gabriel’s](http://www.stgabriels.co.uk/), Newbury.
+the choir from [The Pilgrims’ School](http://www.thepilgrims-school.co.uk/The-Professional-Choirs), Winchester.
 
 ## Soloists
 * [Paula Sides](https://www.paulasides.com/) - *Soprano*
