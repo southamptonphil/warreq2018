@@ -18,6 +18,8 @@ centenary of the end of World War I, and given its subject matter, this timeless
 message of peace gives us all the opportunity to acknowledge all those who
 made the ultimate sacrifice.
 
+Read more at the [Britten-Pears Foundation](http://www.warrequiem.org/). 
+
 [Basingstoke Choral Society](http://baschoral.wixsite.com/bcsoc), [Southampton Philharmonic Choir](http://www.southamptonphil.org/web/), the
 [Southampton University Philharmonic Choir](https://www.susu.org/groups/suphil) and the [City of Southampton
 Orchestra](https://www.csorchestra.org/) combine their considerable forces for
