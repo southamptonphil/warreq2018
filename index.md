@@ -6,9 +6,16 @@ actions:
 #    icon: github  # references name of svg icon, see full list below
     url: "http://www.war-requiem2018.uk/tickets/"
 ---
-A lifelong pacifist, Benjamin Britten was asked to compose the War Requiem
-for the consecration of the rebuilt Coventry Cathedral after its destruction in
-World War II.
+<pre>
+My subject is War, and the pity of War.
+The Poetry is in the pity...
+All a poet can do today is warn.
+</pre>
+
+Benjamin Britten included these words by Wilfred Owen on the title page of his War Requiem. The work, an expression of his
+pacifism, was first performed during the Coventry Festival in 1962, in the rebuilt and newly consecrated Coventry Cathedral.
+The old cathedral had been virtually destroyed during the Blitz and, after the war, was rebuilt to a new design, in a spirit
+of reconciliation after conflict.
 
 The work weaves together the Latin Mass text of a traditional requiem with
 the devastating war poetry of Wilfred Owen to produce a powerful
