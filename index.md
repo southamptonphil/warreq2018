@@ -6,11 +6,11 @@ actions:
 #    icon: github  # references name of svg icon, see full list below
     url: "http://www.war-requiem2018.uk/tickets/"
 ---
-<pre>
-My subject is War, and the pity of War.
-The Poetry is in the pity...
-All a poet can do today is warn.
-</pre>
+**My subject is War, and the pity of War.**
+
+**The Poetry is in the pity...**
+
+**All a poet can do today is warn.**
 
 Benjamin Britten included these words by Wilfred Owen on the title page of his War Requiem. The work, an expression of his
 pacifism, was first performed during the Coventry Festival in 1962, in the rebuilt and newly consecrated Coventry Cathedral.
