@@ -1,3 +1,8 @@
+---
+layout: page
+image: /assets/inremebrance.jpg
+---
+
 # In Remembrance
 
 Britten wrote a dedication to four of his friends who had died in the war in the opening page of his score for
