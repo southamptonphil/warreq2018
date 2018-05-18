@@ -1,6 +1,6 @@
 ---
 layout: page
-image: /assets/Inremebrance.jpg
+image: /assets/Inremembrance.jpg
 ---
 
 # In Remembrance
