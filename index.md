@@ -23,7 +23,8 @@ denunciation of the wickedness of war and a warning to future generations of
 the senselessness of taking up arms against one’s fellow man. 2018 marks the
 centenary of the end of World War I, and given its subject matter, this timeless
 message of peace gives us all the opportunity to acknowledge all those who
-made the ultimate sacrifice.
+made the ultimate sacrifice. Find out about our
+[Poppy Slips and the Remembrance Wall here](http://war-requiem2018.uk/InRemembrance.html).
 
 Read more at the [Britten-Pears Foundation](http://www.warrequiem.org/). 
 
