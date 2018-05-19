@@ -19,7 +19,7 @@ and then at The Anvil in readiness for our concert on 9 June.
 
 Slips will be available at The Anvil on the night of the concert, but if you would like to prepare your dedication
 in advance,
-[you can print off your own poppy slip (clip here)](https://drive.google.com/open?id=1VbGIl6VCaAYpo7cZ_p-PA05CEGXaTASo)
+[you can print off your own poppy slip (click here)](https://drive.google.com/open?id=1VbGIl6VCaAYpo7cZ_p-PA05CEGXaTASo)
 at home.
 
 On arrival at the concert, please take your slip to the Poppy Wall.
