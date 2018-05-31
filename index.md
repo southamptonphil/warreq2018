@@ -38,3 +38,8 @@ the choir from [The Pilgrims’ School](http://www.thepilgrims-school.co.uk/The-
 * [Paula Sides](https://www.paulasides.com/) - *Soprano*
 * [Alexander James Edwards](http://www.thetenor.co.uk/) - *Tenor*
 * [Ashley Riches](https://www.ashleyriches.co.uk/) - *Baritone*
+
+*There will be a retiring collection in aid of [Help for Heroes](https://www.helpforheroes.org.uk/),
+a charity that provides recovery and support for the
+Armed Forces community whose lives have been affected by their service, to empower the wounded, injured and sick to
+look beyond illness and injury, regain their purpose, reach their potential and have a positive impact on society.*
